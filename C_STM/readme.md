@@ -1,0 +1,1 @@
+Replace '#include "stm32c0xx_hal.h' with the good HAL.
